@@ -8,7 +8,7 @@
         <!-- box iconos -->
         <link href='https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css' rel='stylesheet'>
         <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-        <link rel="stylesheet" type="text/css" href="asset/css/style.css">
+        <link rel="stylesheet" type="text/css" href="./css/style.css">
     </head>
     <body>
         <div class="conteiner">
